@@ -1,0 +1,1 @@
+streamlit run %~dp0Exp1.py

@@ -1,4 +1,4 @@
-## task2
+## Task2
 This task is done using streamlit as i am able to add a slider to play with the window size for most of the filters and see the results immediately in the browser.
 
 ## To run task2
