@@ -1,0 +1,1 @@
+streamlit run %~dp0task2.py
